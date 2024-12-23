@@ -40,6 +40,8 @@ The project follows this structure:
 
 ```plaintext
 lib/
+├── model/
+│   └── user_model.dart
 ├── services/
 │   └── database_service.dart
 ├── app.dart
